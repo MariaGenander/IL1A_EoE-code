@@ -213,7 +213,7 @@ Expression heatmaps use row-wise z-score scaling and a blue-white-red color scal
 
 Performs gene-set enrichment analyses.
 
-The analysis uses the gene-set file:
+The analysis uses the gene-set file downloaded from MsigDB:
 
 ```text
 v2024.1.Hs.symbols.gmt
