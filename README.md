@@ -16,7 +16,6 @@ This repository contains the R code used for the single-cell RNA-seq and bulk RN
 
 ```text
 .
-├── 00_scRNA_processing.R
 ├── 01_EoE_scRNA_processing.R
 ├── 02_Figure1.R
 ├── 03_FigureS1.R
@@ -49,15 +48,6 @@ It also contains figure-specific scripts and helper functions used for visualiza
 
 # Single-cell RNA-seq analysis
 
-## `00_scRNA_processing.R`
-
-Original single-cell RNA-seq processing script retained as part of the analysis record.
-
-The organized processing workflow used for the downstream analyses in this repository is provided in:
-
-```text
-01_EoE_scRNA_processing.R
-```
 
 ## `01_EoE_scRNA_processing.R`
 
