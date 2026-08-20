@@ -3,7 +3,7 @@
 This repository contains the R code used for the single-cell RNA-seq and bulk RNA-seq processing, analysis, and visualization presented in the manuscript:
 
 **Intraepithelial IL1A signaling promotes human esophageal inflammation while safeguarding epithelial basal cell identity and barrier function**
-![Graphical abstract](images/Graphical_Abstract.png)
+![Graphical abstract](images/Graphical Abstract.png)
 ## Repository contents
 
 ```text
